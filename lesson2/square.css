@@ -1,0 +1,21 @@
+table
+{
+    background: yellow;
+    border-style: solid;
+    border-width: 1pt;
+    border-color: black;
+}
+.black_text
+{
+color: black;
+border-style: solid;
+border-width: 1pt;
+border-color: black;
+}
+.white_text
+{
+color: white;
+border-style: solid;
+border-width: 1pt;
+border-color: black;
+}
